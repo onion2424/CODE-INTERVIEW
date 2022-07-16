@@ -6,10 +6,7 @@ using System.Threading.Tasks;
 
 namespace CODE_INTERVIEW
 {
-    class Program
+    class Problem
     {
-        static void Main(string[] args)
-        {
-        }
     }
 }
